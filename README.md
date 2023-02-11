@@ -2,7 +2,7 @@
 This is the back end for Project Games API that sets up the REST API in PHP.
 
 # Live Website
-https://projectgamesapi.xyz/
+No longer live, but I'm leaving the code here for now.
 
 # About
 Project Games API  is a free REST API intended for web development students who want to connect to an API for coding projects. 
